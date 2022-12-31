@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+
+}
+table tr th,
+table tr td{
+    border: 2px solid salmon;
+    text-align: center;
+    color: green;
+    height: 50px;
+    width: 50px;
+}
+table tr th{
+    background-color: gold;
+}
+table tr td{
+    background-color: blueviolet;
+    color: black;
+    
+}
+caption{
+    background-color: brown;
+}
